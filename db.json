@@ -102,7 +102,7 @@
     "booked" : [
         {
             "id" :1,
-            "Patient name" : "Rajesh",
+            "Patient_name" : "Rajesh",
             "Age" : 45,
             "Date" : "23 April 2021",
             "Time" : "5:20 pm"
