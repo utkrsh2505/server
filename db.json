@@ -107,6 +107,14 @@
             "Date" : "23 April 2021",
             "Time" : "5:20 pm"
 
+        },
+        {
+            "id" :2,
+            "Patient_name" : "Raj",
+            "Age" : 45,
+            "Date" : "23 April 2021",
+            "Time" : "6:20 pm"
+
         }
     ]
   }
